@@ -65,7 +65,7 @@ For the purposes of evaluation on the functional requirements, you are to:
 - You will need to make various assumptions during your implementation and design to simplify the submission. These assumptions should be listed along with reasoning in a markdown file in the repo
   - e.g. API request/session security will be done using x method for x benefits but this has been excluded from the solution and listed here as an assumption
 
-# Submission and evaluation
+# Submission and Evaluation
 
 You should have produced a working front-end web application for submission. Aim for completing the exercise in no more than 5 hours.
 
@@ -73,3 +73,10 @@ You are required to submit the exercise prior to your onsite interview, package 
 
 The submission will be evaluated together with your interviewers during the technical onsite.
 We will be going over the design and technical decisions you have made as part of implementation.
+
+# Design Guidance
+
+To aid in the conception of the feature, these are some designs from the native mobile application, you may use these to create a design of your own that is appropriate for the web interface. You are not expected to reproduce these views like for like.
+
+![designs](designs1.png)
+![designs](designs2.png)
